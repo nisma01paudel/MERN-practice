@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisma01paudel/MERN-practice.git"
+  },
+  "keywords": [
+    "learning",
+    "nodejs"
+  ],
+  "author": "Nisma Paudel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisma01paudel/MERN-practice/issues"
+  },
+  "homepage": "https://github.com/nisma01paudel/MERN-practice#readme"
+}
