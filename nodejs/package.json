@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nisma01paudel/MERN-practice/issues"
   },
-  "homepage": "https://github.com/nisma01paudel/MERN-practice#readme"
+  "homepage": "https://github.com/nisma01paudel/MERN-practice#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
